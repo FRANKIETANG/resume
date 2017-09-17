@@ -32,11 +32,11 @@
 
 React
 
-- 2017.07 - **Todo代办清单: ** **|** [GitHub Repo](https://github.com/FRANKIETANG/react-todolist) **|** [Demo](https://frankietang.github.io/react-todolist/build/index.html)
+- 2017.07 - **Todo代办清单:** **|** [GitHub Repo](https://github.com/FRANKIETANG/react-todolist) **|** [Demo](https://frankietang.github.io/react-todolist/build/index.html)
 
 Vue.js
 
-- 2017.07 - **在线简历编辑: ** **|** [GitHub Repo](https://github.com/FRANKIETANG/vue-resume) **|** [Demo](https://frankietang.github.io/vue-resume/dist/#/)
+- 2017.07 - **在线简历编辑:** **|** [GitHub Repo](https://github.com/FRANKIETANG/vue-resume) **|** [Demo](https://frankietang.github.io/vue-resume/dist/#/)
 
 jQuery
 
