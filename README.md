@@ -15,7 +15,7 @@
 
 Vanilla JS
 
-- 2017.09 - ** QQ音乐单页应用: ** **|** [查看源码](https://github.com/FRANKIETANG/react-todolist) **|** [预览地址](https://frankietang.github.io/react-todolist/build/index.html)
+- 2017.09 - **QQ音乐单页应用:** **|** [查看源码](https://github.com/FRANKIETANG/react-todolist) **|** [预览地址](https://frankietang.github.io/react-todolist/build/index.html)
 
   项目需求：移动端单页应用，曝光加载，fetch / await async 请求和响应，分析域名做出相应的 API，播放器。
 
@@ -25,7 +25,7 @@ Vanilla JS
 
 jQuery
 
-- 2017.09 - ** 个人页面:  ** **|** [查看源码](https://github.com/FRANKIETANG/resume) **|** [预览地址](https://frankietang.github.io/resume/Resume/index.html)
+- 2017.09 - **个人页面:** **|** [查看源码](https://github.com/FRANKIETANG/resume) **|** [预览地址](https://frankietang.github.io/resume/Resume/index.html)
 
   项目需求：响应式页面，渲染项目，地图显示地址。
 
@@ -35,7 +35,7 @@ jQuery
 
 React
 
-- 2017.07 - **Todo代办清单: ** **|** [查看源码](https://github.com/FRANKIETANG/react-todolist) **|** [预览地址](https://frankietang.github.io/react-todolist/build/index.html)
+- 2017.07 - **Todo代办清单:** **|** [查看源码](https://github.com/FRANKIETANG/react-todolist) **|** [预览地址](https://frankietang.github.io/react-todolist/build/index.html)
 
   项目需求：移动端单页应用，用户注册，登入 / 登出功能，找回密码，白天 / 黑夜两套主题切换，代办事项的增删查改，提交数据到云端。
 
@@ -45,7 +45,7 @@ React
 
 Vue.js
 
-- 2017.07 - **在线简历编辑: ** **|** [查看源码](https://github.com/FRANKIETANG/vue-resume) **|** [预览地址](https://frankietang.github.io/vue-resume/dist/#/)
+- 2017.07 - **在线简历编辑:** **|** [查看源码](https://github.com/FRANKIETANG/vue-resume) **|** [预览地址](https://frankietang.github.io/vue-resume/dist/#/)
 
   项目需求：用户注册，登入 / 登出功能，实时更新预览简历，实时添加模块，提交数据到云端。
 
