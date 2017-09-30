@@ -13,17 +13,13 @@
 
 ## 项目
 
-Vanilla JS
-
 - 2017.09 - **QQ音乐单页应用:** **|** [查看源码](https://github.com/FRANKIETANG/react-todolist) **|** [预览地址](https://frankietang.github.io/react-todolist/build/index.html)
 
   项目需求：移动端单页应用，曝光加载，fetch / await async 请求和响应，分析域名做出相应的 API，播放器。
 
   项目难点：页面渲染，API 的制作，播放器。
 
-  项目实现：通过分析域名封装出这个 APP 需要用到的 API，放到云端 now.sh 生成 API 接口，得到数据通过模板引擎渲染页面，通过正则表达式做出浏览器搜索功能。利用 HTML5 的 <audio> 自带的媒体事件做出了播放器。
-
-jQuery
+  项目实现：通过分析域名封装出这个 APP 需要用到的 API，放到云端 now.sh 生成 API 接口，得到数据通过模板引擎渲染页面，通过正则表达式做出浏览器搜索功能。利用 HTML5 的 `<audio>` 自带的媒体事件做出了播放器。
 
 - 2017.09 - **个人页面:** **|** [查看源码](https://github.com/FRANKIETANG/resume) **|** [预览地址](https://frankietang.github.io/resume/Resume/index.html)
 
@@ -33,8 +29,6 @@ jQuery
 
   项目实现：分成四页页面，通过 z-index 来叠加页面放到窗口的下方（不可见）。通过简单的 jQuery 实现简单的页面切换，引入一些好玩的组件实现自己想要的功能。
 
-React
-
 - 2017.07 - **Todo代办清单:** **|** [查看源码](https://github.com/FRANKIETANG/react-todolist) **|** [预览地址](https://frankietang.github.io/react-todolist/build/index.html)
 
   项目需求：移动端单页应用，用户注册，登入 / 登出功能，找回密码，白天 / 黑夜两套主题切换，代办事项的增删查改，提交数据到云端。
@@ -42,8 +36,6 @@ React
   项目难点：构思应用要几个模块，模块与模块之间的数据传输，如何 保存 / 删除 数据并且把提交数据到云端。
 
   项目实现：视图层利用 Flex 弹性布局，分成了一个父组件包含四个子组件：TodoInput（输入行程内容）/ TodoItem（展示行程内容）/ SignInForm（注册表单）/ SignUpForm（登录表单），利用了 React 框架实现了子父组件的传输。使用 LeanCloud 平台实现 登录 / 注册 / 找回密码 / 数据增删改查 功能，使用了 ES6 语法。
-
-Vue.js
 
 - 2017.07 - **在线简历编辑:** **|** [查看源码](https://github.com/FRANKIETANG/vue-resume) **|** [预览地址](https://frankietang.github.io/vue-resume/dist/#/)
 
@@ -53,11 +45,7 @@ Vue.js
 
   项目实现：视图层利用 Flex 弹性布局 + Element UI，分成了一个父组件包含四个子组件：Topbar（顶部菜单）/ Editor（编辑简历区）/ Preview（预览简历区），利用了 Vue 框架实现了子父组件的传输。使用 LeanCloud 平台实现保存简历功能，使用了 ES6 语法。
 
-各种组件
-
 - [Vanilla JS 和 jQuery 封装组件](https://github.com/FRANKIETANG/wheels)
-
-静态页面
 
 - 2017.03 - [Remote-Mouse](https://frankietang.github.io/wheels/Remote-Mouse/index.html)（点击预览）
 
