@@ -420,9 +420,11 @@ ul {
       line-height: 32px;
       font-size: 32px;
       min-height: 80px; }
-    .container.home .content .title ul {
+    .container.home .content ul {
       width: 100%;
       margin-top: 40px; }
+      .container.home .content ul li {
+        font-size: 50px; }
   .container.about .top,
   .container.about .bottom {
     flex-direction: column; }
